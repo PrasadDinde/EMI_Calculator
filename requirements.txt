@@ -1,6 +1,2 @@
 streamlit==1.25.0
-pip uninstall pillow
-pip cache purge
-pip install pillow
-
 pillow --only-binary=:all:
