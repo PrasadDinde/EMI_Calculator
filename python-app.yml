@@ -34,5 +34,5 @@ jobs:
 
       # Deploy Streamlit App
       - name: Run Streamlit App
-        run: streamlit run enhanced_emi_calculator.py
+        run: streamlit run emi.py
 
